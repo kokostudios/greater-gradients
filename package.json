@@ -1,0 +1,41 @@
+{
+  "name": "greatergradients",
+  "displayName": "greatergradients",
+  "description": "created by terrenebrick699",
+  "version": "2",
+  "publisher": "kokostudios",
+  "contributes": {
+    "ditheringMatrices": [
+	  {
+        "id": "adpwnn",
+        "name": "adpwnn",
+        "path": "./adpwnn.bmp"
+	  },
+    {
+        "id": "squpol",
+        "name": "squpol",
+        "path": "./squpol.bmp"
+	  },
+    {
+        "id": "udabr",
+        "name": "udabr",
+        "path": "./udabr.bmp"
+	  },
+    {
+      "id": "cuatro",
+      "name": "cuatro",
+      "path": "./cuatro.bmp"
+    },
+    {
+      "id": "qub",
+      "name": "qub",
+      "path": "./qub.bmp"
+    },
+    {
+      "id": "jeremy",
+      "name": "jeremy",
+      "path": "./jeremy.bmp"
+    }
+    ]
+  }
+}
